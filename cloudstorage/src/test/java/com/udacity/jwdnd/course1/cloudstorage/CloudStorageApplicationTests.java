@@ -14,7 +14,7 @@ import java.io.File;
 import java.time.Duration;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
-class NewCloudStorageApplicationTests {
+class CloudStorageApplicationTests {
 
     @LocalServerPort
     private int port;
